@@ -23,8 +23,7 @@ Here we provide label files in two formats, YOLO and VOC.
 ### Tool Display
 
 ### Display a complete annotation example:
-![Image text](https://github.com/ISCAS-ITECHS/ISCAS-CLAD/auto_label/ori.png)
-![Image text](https://github.com/ISCAS-ITECHS/ISCAS-CLAD/auto_label/auto_label.png)
+![alt text](./auto_label/ori.png)
 
 #### YOLO
 ```
