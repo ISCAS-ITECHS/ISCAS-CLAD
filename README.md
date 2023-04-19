@@ -20,11 +20,13 @@ Several sample examples and annotation examples are currently provided, and the 
 We added pre-labeling function based on LabelImg. Firstly, the model pre-labels the Bbox with tags, then human correction is applied to the pre-labeled Bbox.
 Here we provide label files in two formats, YOLO and VOC.
 
-### Tool Display
-
-### Display a complete annotation example:
+### Pre-labeling tool display
 ![alt text](./auto_label/ori.png)
 ![alt text](./auto_label/auto_label.png)
+
+
+### Display a complete annotation example:
+
 #### YOLO
 ```
 1 0.565436 0.758907 0.100671 0.014252
