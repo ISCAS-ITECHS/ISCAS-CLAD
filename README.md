@@ -24,7 +24,7 @@ Here we provide label files in two formats, YOLO and VOC.
 
 ### Display a complete annotation example:
 ![alt text](./auto_label/ori.png)
-
+![alt text](./auto_label/auto_label.png)
 #### YOLO
 ```
 1 0.565436 0.758907 0.100671 0.014252
