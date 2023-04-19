@@ -4,7 +4,9 @@ ISCAS-CLAD is a small dataset of Chinese DLA dataset, of which the layout is ann
 The source of the file is an open-source PDF document on the internet. The annotation was generated through pre-labeling and manual correction.
 
 classes:
+
 |Text|Title|Figure|Table|Header|Footer|Reference|Equation|
+
 The dataset contains a total of 3000 training images and 600 validation images. Each image is associated with a txt and an xml file.
 
 ## Headlines
@@ -21,6 +23,8 @@ Here we provide label files in two formats, YOLO and VOC.
 ### Tool Display
 
 ### Display a complete annotation example:
+![Image text](https://github.com/ISCAS-ITECHS/ISCAS-CLAD/auto_label/ori.png)
+![Image text](https://github.com/ISCAS-ITECHS/ISCAS-CLAD/auto_label/auto_label.png)
 
 #### YOLO
 ```
