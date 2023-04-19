@@ -21,8 +21,7 @@ We added pre-labeling function based on LabelImg. Firstly, the model pre-labels 
 Here we provide label files in two formats, YOLO and VOC.
 
 ### Pre-labeling tool display
-![alt text](./auto_label/ori.png)
-![alt text](./auto_label/auto_label.png)
+![alt text](./auto_label/auto_label.gif)
 
 
 ### Display a complete annotation example:
