@@ -6,6 +6,7 @@ The source of the file is an open-source PDF document on the internet. The annot
 classes:
 
 |Text|Title|Figure|Table|Header|Footer|Reference|Equation|
+|---|---|---|---|---|---|---|---|
 
 The dataset contains a total of 3000 training images and 600 validation images. Each image is associated with a txt and an xml file.
 
